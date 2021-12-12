@@ -79,7 +79,7 @@ p{
 
 .features-img{
    color:#ef8172;
-   margin-left: 70px;
+   
    margin-bottom: 1rem;
 }
 
@@ -88,8 +88,8 @@ p{
 }
 
 .features-col{
-    align-items: center;
-    padding:5%
+    text-align: center;
+    padding:20px
 }
 
 /* testimonials section */
